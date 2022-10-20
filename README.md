@@ -1,5 +1,6 @@
 # Market-Research-for-New-Video-Game-Company-in-2017
 This is a team project for `BA775 Business Analytics Toolbox`
+
 Team Members:
 * Hejiang Wu
 * Sarmad Kahut
