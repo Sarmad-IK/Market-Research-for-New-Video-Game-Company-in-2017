@@ -6,7 +6,7 @@ Team Members:
 * Sifan Zhu
 * Syed Ghalib Qadri
 * Yu Ting Hung
-* 
+
 **Introduction and Motivation:**
 Market research is extremely important, especially for any aspiring market entrant be it a startup, or an established company venturing into a new product/market. Releasing a new product is an extremely risky business, for example data shows that there is almost 95% of new products end up failing. Thus it is extremely important to understand the market which any industry is entering, and market research encompasses everything from market sizing and competitor analysis to yearly trends. For our project, we conducted the preliminary market research for a startup which is aiming to enter the video game industry, and wants to understand what platform, genre, and region would maximize its revenue. For this purpose, we will use a publicly available dataset that looks at every single video game that has sold >100,000 copies released between 1977 (when the first home video game was released) and 2016.
 Our goal is helping our startup client to analyze the sales of video games to see various trends related to video game genre, publisher, platform, and release year across different regions (North America, Japan, and rest of the world). We will benchmark our data analysis on a challenging large-scale dataset which allows us to explore the varying trends in consumer preferences in the > 200 billion USD global video game industry, and provide advice for a startup company aiming to enter the market in 2017.
